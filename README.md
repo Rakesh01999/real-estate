@@ -1,6 +1,6 @@
 # EstateEase
 
-Welcome to EstateEase !
+Welcome to EstateEase 
 
 Live Site: https://real-estate-d06a5.web.app/
 
