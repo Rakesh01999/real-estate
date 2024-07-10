@@ -1,6 +1,6 @@
 # EstateEase
 
-Welcome to EstateEase 
+Welcome to EstateEase !
 
 Live Site: https://real-estate-d06a5.web.app/
 
@@ -24,4 +24,3 @@ To run the project locally, follow these steps:
 2. Navigate to the project directory.
 3. Install dependencies using `npm install`.
 4. Start the development server using `npm start`.
-
