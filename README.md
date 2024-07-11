@@ -5,9 +5,9 @@ Welcome to EstateEase !
 
 
 ## Features and Characteristics
-- **Property Listings:** Browse through a wide range of residential properties.
 - **User Profiles:** User can create and manage his/her own user profile to save favorite listings and preferences.
 - **Secure Authentication:** User's data is protected with secure authentication methods to ensure privacy and security.
+- **Property Listings:** Browse through a wide range of residential properties.
 - **Detailed Property Information:** Each property listing on EstateEase includes detailed information such as property specifications, amenities, pricing details, high-quality images, providing users with all the necessary details to make informed decisions.
 - **Responsive Design:** Enjoy a seamless browsing experience across devices, including desktops, tablets, and mobile phones.
 
