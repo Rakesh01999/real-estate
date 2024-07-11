@@ -2,7 +2,7 @@
 
 Welcome to EstateEase !
 
-Live Site: https://real-estate-d06a5.web.app/
+
 
 ## Features and Characteristics
 - **Property Listings:** Browse through a wide range of residential properties.
@@ -19,7 +19,7 @@ Live Site: https://real-estate-d06a5.web.app/
 
 
 ## Getting Started
-To run the project locally, follow these steps:
+To run the project locally, follow these steps :
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
 3. Install dependencies using `npm install`.
